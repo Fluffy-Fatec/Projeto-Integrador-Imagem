@@ -1,9 +1,0 @@
-[submodule "Projeto-Integrador-Imagem-Frontend"]
-	path = Projeto-Integrador-imagem-Frontend
-	url = https://github.com/Fluffy-Fatec/Projeto-Integrador-Imagem-Frontend
-[submodule "Projeto-Integrador-Imagem-Backend"]
-	path = Projeto-Integrador-Imagem-Backend
-	url = https://github.com/Fluffy-Fatec/Projeto-Integrador-Imagem-Backend
-[submodule "Projeto-Integrador-Imagem-Database"]
-	path = Projeto-Integrador-Imagem-Database
-	url = https://github.com/Fluffy-Fatec/Projeto-Integrador-Imagem-Database
