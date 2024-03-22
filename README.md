@@ -5,7 +5,10 @@
 
 <p align="center"> 
       <a>
-            <img src="https://img.shields.io/badge/Backend Language%3A--orange"/>
+            <img src="https://img.shields.io/badge/Backend Language%3A-Java-orange"/>
+      </a>
+      <a>
+            <img src="https://img.shields.io/badge/IA Language%3A-Python-yellow"/>
       </a>
       <a>
             <img src="https://img.shields.io/badge/Frontend Language%3A-React.JS-blue"/>
@@ -28,37 +31,41 @@
 ## Challenge
 
 
+In this project, we aim to deeply understand customer sentiment through a sophisticated platform that analyzes online reviews. We integrate advanced technologies to map and visualize these sentiments in real geographical context, enabling companies to adjust strategies with unprecedented precision. Our goal is to provide actionable insights to drive innovation and growth, ushering in a new era of data-driven customer engagement. This challenge represents a convergence of technology, data analysis, and business strategy, designed to empower companies to anticipate customer needs and establish stronger bonds on a global scale.
+
+
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 <li>Functional Requirements</li>
 <ul>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>Geolocated Sentiment Visualization</li>
+      <li>Authentication and Session Management</li>
+      <li>Multisource Reviews Integration</li>
+      <li>Data Storage and Management</li>
+      <li>Data Visualization and Reporting</li>
 </ul>
 
 <li>Non-Functional Requirements</li>
 <ul>
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>Compliance and Security</li>
+      <li>Interoperability and Integration</li>
+      <li>Performance and Scalability</li>
 </ul>
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Solution
+The Fluffy team will develop a web application with the aim of deeply understanding customer sentiment, using an advanced platform that analyzes online reviews. By integrating cutting-edge technologies, we will provide companies with actionable insights to adjust strategies with unprecedented precision, ushering in a new era of data-driven customer engagement. This convergence of technology and strategic business thinking will enable companies to anticipate customer needs and strengthen global connections.
 
-The Fluffy team will develop a web system 
 
 Aiming to solve the project, the system will be delivered in four sprints:
 
 
 | Sprint                  | Need      | Product         |
 | ------------------------| -------------|-------------|
-|Sprint 1                 |  |  |
-|Sprint 2                 |  |  |
+|Sprint 1                 | Visualization dashboard and login features | System developed with visualization functionality on feelings in different graphs and visualization functions for creating login |
+|Sprint 2                 | Complete the dashboard with sentiment analysis functionalities and session management. | System developed with sentiment analysis features and filters on the dashboardand various dynamic graphs  |
 |Sprint 3                 |  |  |
 |Sprint 4                 |  |  |
 
@@ -94,23 +101,23 @@ Aiming to solve the project, the system will be delivered in four sprints:
 
 ## Sprint Backlog
 
-<img src = "./Documentacao/Backlog/" width=80%>
+<img src = "Documentacao/Backlog/Frame 1 (1).png" width=80%>
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Mockup
 
 ### Dashboard Screen
-<img src = "./Documentacao/Mockup/">
+<img src = "Documentacao/Mockup/Dashboard.png">
 
-### ???
-<img src = "./Documentacao/Mockup/">
+### Login
+<img src = "Documentacao/Mockup/Login.png">
 
-### ???
-<img src = "./Documentacao/Mockup/">
+### Register
+<img src = "Documentacao/Mockup/Register.png">
 
-### ???
-<img src = "./Documentacao/Mockup/">
+### User Management
+<img src = "Documentacao/Mockup/User Management.png">
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
@@ -158,7 +165,8 @@ Aiming to solve the project, the system will be delivered in four sprints:
 <details>
 <summary>Front-End</summary>
 
-* []()
+* [Vite+React.Js](https://vitejs.dev/guide/)
+* [Mui](https://mui.com/material-ui/getting-started/installation/)
 * [HTML](https://www.w3schools.com/css/)
 * [CSS](https://www.w3schools.com/css/)
 
@@ -167,16 +175,23 @@ Aiming to solve the project, the system will be delivered in four sprints:
 <details>
 <summary>Back-End</summary>
 
-* <!--[Java](https://www.java.com/pt-BR/?msclkid=7faa842eb8f811ecab39772d4c1ae90b)
+* [Java](https://www.java.com/pt-BR/?msclkid=7faa842eb8f811ecab39772d4c1ae90b)
+* [Spring boot](https://spring.io/projects/spring-boot) 
 
-* <!--[Spring boot](https://spring.io/projects/spring-boot) 
+</details>
+
+<details>
+<summary>IA</summary>
+      
+* [Python](https://www.python.org/downloads/)
 
 </details>
 
 <details>
 <summary>Database</summary>
-
-* []()
+      
+* [PostgreSQL](https://www.postgresql.org/ftp/pgadmin/pgadmin4/v8.4/windows/)
+* [NongoDB](https://www.mongodb.com/try/download/community)
 </details>
 
 <details>
