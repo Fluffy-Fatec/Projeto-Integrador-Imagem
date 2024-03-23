@@ -11,7 +11,7 @@
             <img src="https://img.shields.io/badge/IA Language%3A-Python-yellow"/>
       </a>
       <a>
-            <img src="https://img.shields.io/badge/Frontend Language%3A-React.JS-blue"/>
+            <img src="https://img.shields.io/badge/Frontend %3A-React.JS-blue"/>
       </a>
       <a>
             <img src="https://img.shields.io/badge/Client%3A-Imagem-green"/>
@@ -66,8 +66,8 @@ Aiming to solve the project, the system will be delivered in four sprints:
 | ------------------------| -------------|-------------|
 |Sprint 1                 | Visualization dashboard and login features | System developed with visualization functionality on feelings in different graphs and visualization functions for creating login |
 |Sprint 2                 | Complete the dashboard with sentiment analysis functionalities and session management. | System developed with sentiment analysis features and filters on the dashboardand various dynamic graphs  |
-|Sprint 3                 |  |  |
-|Sprint 4                 |  |  |
+|Sprint 3                 | visualization of advanced functionalities for generating reports and analysis history  | System that generates graph reports and can monitor and access logs  |
+|Sprint 4                 | complete data categorization and finalize the project | System will be finalized and data categorization will be refined towards the end of the project |
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
@@ -88,13 +88,16 @@ Aiming to solve the project, the system will be delivered in four sprints:
 
 | Rank           | Priority    | User Story         | Estimate | Sprint |
 | ---------------| ----------------| -------------------| -----------| -------|
-| 1 |  | |  |  |
-| 2 |  |  |  |  |
-| 3 |  | |  |  |
-| 4 |  | |  |  |
-| 5 | |  |  |  |
-| 6 |  |  |  |  |
-| 7 | |  |  | |
+| 1 | High | As a user, I want to view an interactive map with the geographic distribution of data, so that I can quickly identify areas with the highest concentration of data |  | 1 |
+| 2 | Medium | As a logged in user, I want to update my data, so that I can keep my information accurate |  | 1  |
+| 3 | High | As a registered user, I want to log in to the system, so that I can access my data and perform analysis |  |  1 |
+| 4 | Medium | As a user, I want to filter the data by region so I can focus on specific areas of interest |  | 2 |
+| 5 | Medium | As a logged in user, I want to view charts and tables with sentiment analysis so I can get an overview of the data and identify trends |  | 2 |
+| 6 | Medium | As a logged in user, I want to generate PDF and Excel reports on sentiment trends so that I can share the results of my analysis with others |  | 3 |
+| 7 | Medium | As a logged in user, I want to compare different periods and sentiment categories in the reports so that I can identify deeper insights from the data. |  | 3 |
+| 8 | Medium | As an administrator, I want to create and edit custom tags for reviews so that I can customize the categorization system |  | 4 |
+| 9 | Medium | As a logged in user, I want to manually categorize reviews so that I can improve the accuracy of sentiment analysis models |  | 4 |
+| 10 |Medium | As a logged in user, I want to visualize how machine learning models perform on sentiment analysis so that I can have confidence in the analysis results. |  | 4 |
 
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
@@ -191,7 +194,7 @@ Aiming to solve the project, the system will be delivered in four sprints:
 <summary>Database</summary>
       
 * [PostgreSQL](https://www.postgresql.org/ftp/pgadmin/pgadmin4/v8.4/windows/)
-* [NongoDB](https://www.mongodb.com/try/download/community)
+* [MongoDB](https://www.mongodb.com/try/download/community)
 </details>
 
 <details>
