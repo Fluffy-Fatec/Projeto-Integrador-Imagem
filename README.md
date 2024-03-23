@@ -111,20 +111,26 @@ Aiming to solve the project, the system will be delivered in four sprints:
 ## Mockup
 
 ### Dashboard Screen
-<img src = "Documentacao/Mockup/Dashboard.png">
+
 
 ### Login
-<img src = "Documentacao/Mockup/Login.png">
 
 ### Register
-<img src = "Documentacao/Mockup/Register.png">
 
 ### User Management
-<img src = "Documentacao/Mockup/User Management.png">
 
-<p align="right">(<a href="#top">Scroll to top</a>)</p>
+<!-- <img src = "Documentacao/Mockup/Dashboard.png">
 
-## DER Database
+<!--<img src = "Documentacao/Mockup/Login.png">
+
+<!--img src = "Documentacao/Mockup/Register.png">
+
+
+<!--<img src = "Documentacao/Mockup/User Management.png">
+
+<!--<p align="right">(<a href="#top">Scroll to top</a>)</p>
+
+
 
 ### Logical Model (James Martin's Notation)
 
