@@ -220,7 +220,12 @@ Aiming to solve the project, the system will be delivered in four sprints:
 <img src = "./Documentacao/Team/">
 <br>
 
----
 
-> GitHub [@fluffyfatec](https://github.com/fluffyfatec) &nbsp;&middot;&nbsp;
-> Gmail [fluffyfatec@gmail.com](fluffyapi@gmail)
+<div align="center">
+
+## Contatos:
+
+<div>
+<a href = "https://github.com/fluffyfatec"><img loading="lazy" src= "https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"  target="_blank"></a> 
+<a href = "https://fluffyfatec@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</a>
