@@ -73,14 +73,7 @@ Aiming to solve the project, the system will be delivered in four sprints:
 
 ## Schedule
 
-| Event                   | Date         |
-| ------------------------| -------------|
-|Kick-off                 |03/04 to 03/08|    
-|Sprint 1                 |03/25 to 04/14|   
-|Sprint 2                 |04/15 to 05/05|    
-|Sprint 3                 |06/05 to 26/05|     
-|Sprint 4                 |05/27 to 06/16|  
-|Feira de Soluções        |06/27         |
+<img src= "Documentacao/Backlog/Schedule.png">
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
@@ -105,10 +98,11 @@ Aiming to solve the project, the system will be delivered in four sprints:
 
 ## Sprint Backlog
 
-<img src = "Documentacao/Backlog/Frame 1 (1).png" width=80%>
+<img src = "Documentacao/Backlog/Backlog.png" width=100%>
 
 
 ## Mockup
+<hr>
 
 ### Login
 
