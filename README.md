@@ -106,29 +106,33 @@ Aiming to solve the project, the system will be delivered in four sprints:
 
 <img src = "Documentacao/Backlog/Frame 1 (1).png" width=80%>
 
-<p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Mockup
 
+### Login
+
+<img src = "Documentacao/Mockup/Tela de Login.png">
+
 ### Dashboard Screen
 
+<img src = "Documentacao/Mockup/Tela de Dashboard.png">
 
-### Login
+### My Profile
+
+<img src="Documentacao/Mockup/Tela Meu Perfil.png">
+
 
 ### Register
 
+<img src="Documentacao/Mockup/Tela de Register.png">
+
 ### User Management
 
-<!-- <img src = "Documentacao/Mockup/Dashboard.png">
-
-<!--<img src = "Documentacao/Mockup/Login.png">
-
-<!--img src = "Documentacao/Mockup/Register.png">
+<img src="Documentacao/Mockup/Tela User Management.png">
+ 
 
 
-<!--<img src = "Documentacao/Mockup/User Management.png">
-
-<!--<p align="right">(<a href="#top">Scroll to top</a>)</p>
+<p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 
 
@@ -145,15 +149,10 @@ Aiming to solve the project, the system will be delivered in four sprints:
 
 ## Data Dictionary
 
-<!--[Click here to accesses the Data Dictionary of the Database.](https://github.com/Fluffy-Fatec/Projeto-Integrador-Oracle/blob/develop/Documentacao/Dictionary/Database_Data_Dictionary_Sprint_4.pdf)
+[Click here to accesses the Data Dictionary of the Database.]()
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
-<!-- DevOps Documentation
-
-[Click here to accesses the DevOps Documentation.](https://fluffyfatec.atlassian.net/l/cp/RDTC3CTw)
-
-<p align="right">(<a href="#top">Scroll to top</a>)</p> -->
 
 ## Team
 
@@ -193,14 +192,13 @@ Aiming to solve the project, the system will be delivered in four sprints:
 <summary>IA</summary>
       
 * [Python](https://www.python.org/downloads/)
-
+* [sklearn.neural_network.MLPClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html)
 </details>
 
 <details>
 <summary>Database</summary>
       
 * [PostgreSQL](https://www.postgresql.org/ftp/pgadmin/pgadmin4/v8.4/windows/)
-* [MongoDB](https://www.mongodb.com/try/download/community)
 </details>
 
 <details>
@@ -211,6 +209,8 @@ Aiming to solve the project, the system will be delivered in four sprints:
 * [Whatsapp](https://www.whatsapp.com/)
 
 * [Slack](https://slack.com/intl/pt-br/?msclkid=c00e628eb8f811ecaef374bb86d7f056)
+
+* [Figma](https://www.figma.com/)
 </details>
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
