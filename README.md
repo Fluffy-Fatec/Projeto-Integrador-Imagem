@@ -1,6 +1,6 @@
 # Projeto-Integrador-Imagem
 
-<img src = "./Documentacao/Team/">
+<img src = "./Documentacao/Team/pandalyzeheader.jpg/">
 <br>
 
 <p align="center"> 
@@ -216,7 +216,7 @@ Aiming to solve the project, the system will be delivered in four sprints:
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 <br>
-<img src = "./Documentacao/Team/">
+<img src = "./Documentacao/Team/pandalyzefolder.jpg">
 <br>
 
 ---
