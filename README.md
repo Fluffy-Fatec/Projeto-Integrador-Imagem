@@ -133,7 +133,7 @@ Aiming to solve the project, the system will be delivered in four sprints:
 
 ### Logical Model (James Martin's Notation)
 
-<img src = "./Documentacao/DER/">
+<img src = "Documentacao/DER/DER.jpeg">
 
 
 ## Burndown
