@@ -110,7 +110,7 @@ Aiming to solve the project, the system will be delivered in four sprints:
 
 ### Dashboard Screen
 
-<img src = "Documentacao/Mockup/Tela de Dashboard.png">
+<img src = "Documentacao/Mockup/Dashboard.png">
 
 ### My Profile
 
@@ -133,7 +133,7 @@ Aiming to solve the project, the system will be delivered in four sprints:
 
 ### Logical Model (James Martin's Notation)
 
-<img src = "Documentacao/DER/DER.jpeg">
+<img src = "Documentacao/DER/DER.png">
 
 
 ## Burndown
