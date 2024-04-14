@@ -144,7 +144,7 @@ Aiming to solve the project, the system will be delivered in four sprints:
 
 ## Data Dictionary
 
-[Click here to accesses the Data Dictionary of the Database.]()
+[Click here to accesses the Data Dictionary of the Database.](https://github.com/Fluffy-Fatec/Projeto-Integrador-Imagem/blob/develop/Documentacao/Dictionary/dicionario%20de%20dados.pdf)
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
