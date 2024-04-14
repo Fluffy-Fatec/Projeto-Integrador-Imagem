@@ -81,16 +81,16 @@ Aiming to solve the project, the system will be delivered in four sprints:
 
 | Rank           | Priority    | User Story         | Estimate | Sprint |
 | ---------------| ----------------| -------------------| -----------| -------|
-| 1 | High   | As a platform user, I expect to have access to an interactive map displaying the geographic distribution of customer reviews. This will enable me to identify areas with higher data density, facilitating regional analysis and the identification of specific trends in different regions. This functionality will be crucial for a more comprehensive analysis and for better understanding how reviews are geographically distributed, providing valuable insights to improve decision-making and enhance the customer experience. |  | 1 |
-| 2 | High   | As a registered user, I want to be able to securely log in to the platform to access my information and start my data analysis. Secure authentication is essential to protect my personal information and ensure access only to authorized users. This functionality will be fundamental to guaranteeing the integrity and security of user data, providing a reliable and protected experience on the platform. |  | 1 |
-| 3 | Medium | As a registered user on the platform, I wish to be able to easily update my personal information. Having access to a personalized profile will allow me to edit and maintain my data, ensuring the accuracy of the information stored by the platform. This functionality will be essential for me to keep my profile always updated and accurately reflecting my most recent information. |  | 1 |
-| 4 | Medium | As a platform user, I desire the ability to filter reviews by geographical region, allowing me to focus on specific areas of interest. This will streamline the analysis of relevant data for my objective, providing a clearer understanding of patterns and trends in different locations. This functionality will be essential to direct my analysis accurately and extract significant insights related to specific geographical areas. |  | 2 |
-| 5 | Medium | As a platform user, I aim to have access to graphs and tables presenting sentiment analyses in a clear and understandable manner. This will enable me to gain an overview of the data and identify important trends, facilitating comprehension of the information and assisting in informed decision-making. This functionality will be crucial to improve data interpretation and extract relevant insights efficiently. |  | 2 |
-| 6 | High | As a platform user, I wish to have the ability to generate customized reports in popular formats such as PDF and Excel, containing sentiment analyses and data trends. This will allow me to easily share analysis results with colleagues and stakeholders. This functionality will be essential to facilitate communication and collaboration, enabling users to share valuable insights clearly and accessibly. |  | 3 |
-| 7 | Medium | As a platform user, I want the capability to compare different periods and categories of sentiments in the generated reports. This will enable me to identify significant insights and better understand changes over time, facilitating informed decision-making. This functionality will be essential to analyze trends and patterns in the data, providing a more comprehensive view of sentiment category performance and evolution over time. |  | 3 |
-| 8 |High | As a platform user, I expect to have access to performance metrics of the machine learning models used in sentiment analysis. This will allow me to assess the accuracy and reliability of analysis results, providing valuable insights to better understand the performance of the employed algorithms. This transparency will increase my confidence in the results and help me make informed decisions based on the analyses conducted. |  | 4 |
-| 9 | Medium | As an administrator of the platform, I desire the ability to create and edit customized tags for categorizing reviews. This will enable me to personalize the categorization system according to the specific needs of the company or industry, ensuring more accurate and relevant sentiment analysis. This functionality will be crucial to adapt the classification system to business peculiarities, improving analysis quality and providing more useful insights to platform users. |  | 4 |
-| 10 | Medium | As a platform user, I wish to have the ability to manually categorize reviews to improve the accuracy of sentiment analysis models. This will allow me to provide valuable feedback on review classification and contribute to the continuous improvement of sentiment analysis algorithms. This functionality will be essential to refine models and provide more accurate and relevant results to platform users. |  | 4 |
+| 1 | High   | As a platform user, I expect to have access to an interactive map displaying the geographic distribution of customer reviews. This will enable me to identify areas with higher data density, facilitating regional analysis and the identification of specific trends in different regions. This functionality will be crucial for a more comprehensive analysis and for better understanding how reviews are geographically distributed, providing valuable insights to improve decision-making and enhance the customer experience. | 1 | 1 |
+| 2 | High   | As a registered user, I want to be able to securely log in to the platform to access my information and start my data analysis. Secure authentication is essential to protect my personal information and ensure access only to authorized users. This functionality will be fundamental to guaranteeing the integrity and security of user data, providing a reliable and protected experience on the platform. | 1 | 1 |
+| 3 | Medium | As a registered user on the platform, I wish to be able to easily update my personal information. Having access to a personalized profile will allow me to edit and maintain my data, ensuring the accuracy of the information stored by the platform. This functionality will be essential for me to keep my profile always updated and accurately reflecting my most recent information. | 1 | 1 |
+| 4 | Medium | As a platform user, I desire the ability to filter reviews by geographical region, allowing me to focus on specific areas of interest. This will streamline the analysis of relevant data for my objective, providing a clearer understanding of patterns and trends in different locations. This functionality will be essential to direct my analysis accurately and extract significant insights related to specific geographical areas. | 1 | 2 |
+| 5 | Medium | As a platform user, I aim to have access to graphs and tables presenting sentiment analyses in a clear and understandable manner. This will enable me to gain an overview of the data and identify important trends, facilitating comprehension of the information and assisting in informed decision-making. This functionality will be crucial to improve data interpretation and extract relevant insights efficiently. | 1 | 2 |
+| 6 | High | As a platform user, I wish to have the ability to generate customized reports in popular formats such as PDF and Excel, containing sentiment analyses and data trends. This will allow me to easily share analysis results with colleagues and stakeholders. This functionality will be essential to facilitate communication and collaboration, enabling users to share valuable insights clearly and accessibly. | 1 | 3 |
+| 7 | Medium | As a platform user, I want the capability to compare different periods and categories of sentiments in the generated reports. This will enable me to identify significant insights and better understand changes over time, facilitating informed decision-making. This functionality will be essential to analyze trends and patterns in the data, providing a more comprehensive view of sentiment category performance and evolution over time. | 1 | 3 |
+| 8 |High | As a platform user, I expect to have access to performance metrics of the machine learning models used in sentiment analysis. This will allow me to assess the accuracy and reliability of analysis results, providing valuable insights to better understand the performance of the employed algorithms. This transparency will increase my confidence in the results and help me make informed decisions based on the analyses conducted. | 1 | 4 |
+| 9 | Medium | As an administrator of the platform, I desire the ability to create and edit customized tags for categorizing reviews. This will enable me to personalize the categorization system according to the specific needs of the company or industry, ensuring more accurate and relevant sentiment analysis. This functionality will be crucial to adapt the classification system to business peculiarities, improving analysis quality and providing more useful insights to platform users. | 1 | 4 |
+| 10 | Medium | As a platform user, I wish to have the ability to manually categorize reviews to improve the accuracy of sentiment analysis models. This will allow me to provide valuable feedback on review classification and contribute to the continuous improvement of sentiment analysis algorithms. This functionality will be essential to refine models and provide more accurate and relevant results to platform users. | 1 | 4 |
 
 
 
@@ -110,7 +110,7 @@ Aiming to solve the project, the system will be delivered in four sprints:
 
 ### Dashboard Screen
 
-<img src = "Documentacao/Mockup/Tela de Dashboard.png">
+<img src = "Documentacao/Mockup/Dashboard.png">
 
 ### My Profile
 
@@ -133,18 +133,18 @@ Aiming to solve the project, the system will be delivered in four sprints:
 
 ### Logical Model (James Martin's Notation)
 
-<img src = "Documentacao/DER/DER.jpeg">
+<img src = "Documentacao/DER/DER.png">
 
 
 ## Burndown
 
-<img src = "./Documentacao/Burndown/">
+<img src = "Documentacao/Burndown/Burndown.png">
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Data Dictionary
 
-[Click here to accesses the Data Dictionary of the Database.]()
+[Click here to accesses the Data Dictionary of the Database.](https://github.com/Fluffy-Fatec/Projeto-Integrador-Imagem/blob/develop/Documentacao/Dictionary/dicionario%20de%20dados.pdf)
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
