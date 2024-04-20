@@ -77,6 +77,19 @@ Aiming to solve the project, the system will be delivered in four sprints:
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
+
+## DOR
+
+| DOR Item                | Descrição                                      |
+|-------------------------|------------------------------------------------|
+| Requisitos claros      | Todos os requisitos estão bem definidos e compreendidos.|
+| Critérios de aceitação | Critérios claros estabelecidos para determinar quando uma tarefa está completa.|
+| Estimativas de esforço | Estimativas de esforço e recursos necessários para concluir a tarefa.|
+| Priorização clara      | Prioridade da tarefa está definida e compreendida.|
+| Ambiente de desenvolvimento configurado | Ambiente de desenvolvimento está configurado e pronto para a tarefa.|
+
+<br>
+
 ## Product Backlog
 
 | Rank           | Priority    | User Story         | Estimate | Sprint |
@@ -86,13 +99,14 @@ Aiming to solve the project, the system will be delivered in four sprints:
 | 3 | Medium | As a registered user on the platform, I wish to be able to easily update my personal information. Having access to a personalized profile will allow me to edit and maintain my data, ensuring the accuracy of the information stored by the platform. This functionality will be essential for me to keep my profile always updated and accurately reflecting my most recent information. | 1 | 1 |
 | 4 | Medium | As a platform user, I desire the ability to filter reviews by geographical region, allowing me to focus on specific areas of interest. This will streamline the analysis of relevant data for my objective, providing a clearer understanding of patterns and trends in different locations. This functionality will be essential to direct my analysis accurately and extract significant insights related to specific geographical areas. | 1 | 2 |
 | 5 | Medium | As a platform user, I aim to have access to graphs and tables presenting sentiment analyses in a clear and understandable manner. This will enable me to gain an overview of the data and identify important trends, facilitating comprehension of the information and assisting in informed decision-making. This functionality will be crucial to improve data interpretation and extract relevant insights efficiently. | 1 | 2 |
-| 6 | High | As a platform user, I wish to have the ability to generate customized reports in popular formats such as PDF and Excel, containing sentiment analyses and data trends. This will allow me to easily share analysis results with colleagues and stakeholders. This functionality will be essential to facilitate communication and collaboration, enabling users to share valuable insights clearly and accessibly. | 1 | 3 |
+
+<!--| 6 | High | As a platform user, I wish to have the ability to generate customized reports in popular formats such as PDF and Excel, containing sentiment analyses and data trends. This will allow me to easily share analysis results with colleagues and stakeholders. This functionality will be essential to facilitate communication and collaboration, enabling users to share valuable insights clearly and accessibly. | 1 | 3 |
 | 7 | Medium | As a platform user, I want the capability to compare different periods and categories of sentiments in the generated reports. This will enable me to identify significant insights and better understand changes over time, facilitating informed decision-making. This functionality will be essential to analyze trends and patterns in the data, providing a more comprehensive view of sentiment category performance and evolution over time. | 1 | 3 |
 | 8 |High | As a platform user, I expect to have access to performance metrics of the machine learning models used in sentiment analysis. This will allow me to assess the accuracy and reliability of analysis results, providing valuable insights to better understand the performance of the employed algorithms. This transparency will increase my confidence in the results and help me make informed decisions based on the analyses conducted. | 1 | 4 |
 | 9 | Medium | As an administrator of the platform, I desire the ability to create and edit customized tags for categorizing reviews. This will enable me to personalize the categorization system according to the specific needs of the company or industry, ensuring more accurate and relevant sentiment analysis. This functionality will be crucial to adapt the classification system to business peculiarities, improving analysis quality and providing more useful insights to platform users. | 1 | 4 |
 | 10 | Medium | As a platform user, I wish to have the ability to manually categorize reviews to improve the accuracy of sentiment analysis models. This will allow me to provide valuable feedback on review classification and contribute to the continuous improvement of sentiment analysis algorithms. This functionality will be essential to refine models and provide more accurate and relevant results to platform users. | 1 | 4 |
 
-
+-->
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
@@ -199,6 +213,10 @@ Aiming to solve the project, the system will be delivered in four sprints:
 <details>
 <summary>Meetings and Communication</summary>
 
+* [Jira](https://www.atlassian.com/software/jira)
+
+* [Confluience](https://www.atlassian.com/br/software/confluence)
+
 * [Discord](https://discord.com/?msclkid=b4f5af84b8f811ecbd81c127a0ae68a7)
 
 * [Whatsapp](https://www.whatsapp.com/)
@@ -223,3 +241,10 @@ Aiming to solve the project, the system will be delivered in four sprints:
 <a href = "https://github.com/fluffyfatec"><img loading="lazy" src= "https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"  target="_blank"></a> 
 <a href = "https://fluffyfatec@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </a>
+
+<br>
+<br>
+
+[&copy; 2024 Licensed under the Academic Free License version 3.0](https://opensource.org/licenses/AFL-3.0)
+
+
