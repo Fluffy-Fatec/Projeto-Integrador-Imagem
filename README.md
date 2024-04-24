@@ -59,16 +59,6 @@ In this project, we aim to deeply understand customer sentiment through a sophis
 The Fluffy team will develop a web application with the aim of deeply understanding customer sentiment, using an advanced platform that analyzes online reviews. By integrating cutting-edge technologies, we will provide companies with actionable insights to adjust strategies with unprecedented precision, ushering in a new era of data-driven customer engagement. This convergence of technology and strategic business thinking will enable companies to anticipate customer needs and strengthen global connections.
 
 
-Aiming to solve the project, the system will be delivered in four sprints:
-
-
-| Sprint                  | Need      | Product         |
-| ------------------------| -------------|-------------|
-|Sprint 1                 | Visualization dashboard and login features | System developed with visualization functionality on feelings in different graphs and visualization functions for creating login |
-|Sprint 2                 | Complete the dashboard with sentiment analysis functionalities and session management. | System developed with sentiment analysis features and filters on the dashboardand various dynamic graphs  |
-|Sprint 3                 | visualization of advanced functionalities for generating reports and analysis history  | System that generates graph reports and can monitor and access logs  |
-|Sprint 4                 | complete data categorization and finalize the project | System will be finalized and data categorization will be refined towards the end of the project |
-
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Schedule
@@ -121,29 +111,39 @@ Aiming to solve the project, the system will be delivered in four sprints:
 
 
 ## Mockup
-<hr>
 
-### Login
 
+<details>
+<br>
+ <summary>Login</summary>
 <img src = "Documentacao/Mockup/Tela de Login.png">
+</details>
 
-### Dashboard Screen
 
+<details>
+<br>
+ <summary>Dashboard Screen</summary>
 <img src = "Documentacao/Mockup/Dashboard.png">
+</details>
 
-### My Profile
 
+<details>
+<br>
+ <summary>My Profile</summary>
 <img src="Documentacao/Mockup/Tela Meu Perfil.png">
+</details>
 
-
-### Register
-
+<details>
+<br>
+ <summary>Register</summary>
 <img src="Documentacao/Mockup/Tela de Register.png">
+</details>
 
-### User Management
-
+<details>
+<br>
+ <summary>User Management</summary>
 <img src="Documentacao/Mockup/Tela User Management.png">
- 
+ </details>
 
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
