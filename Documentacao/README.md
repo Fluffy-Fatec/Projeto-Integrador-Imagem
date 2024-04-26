@@ -5,7 +5,7 @@ This is the main repository of the Fluffy project. Here are the descriptions of 
 
 ### Backlog 📅
 The "Backlog" folder contains files related to the project backlog, tasks, and priorities.
-<a href="./Documentacao/Backlog" style="color: #007bff; text-decoration: none;">Backlog</a>
+<a href="./Backlog" style="color: #007bff; text-decoration: none;">Backlog</a>
 
 
 ### Burndown 📈
