@@ -10,24 +10,24 @@ The "Backlog" folder contains files related to the project backlog, tasks, and p
 
 ### Burndown 📈
 The "Burndown" folder includes burndown charts that track the project's progress over time.
-<a href="Documentacao/Burndown" style="color: #007bff; text-decoration: none;">Burndown</a>
+<a href="./Burndown" style="color: #007bff; text-decoration: none;">Burndown</a>
 
 ### DER 📄
 The "DER" folder contains the Entity-Relationship Diagram (DER) 
 that describes the structure of entities and their relationships in the project database.
-<a href="Documentacao/DER" style="color: #007bff; text-decoration: none;">DER</a>
+<a href="./DER" style="color: #007bff; text-decoration: none;">DER</a>
 
 ### Dictionary 📖
 The "Dictionary" folder includes documents or files that describe terms, abbreviations, and specific concepts used in the project database.
-<a href="Documentacao/Dictionary" style="color: #007bff; text-decoration: none;">Dictionary</a>
+<a href="./Dictionary" style="color: #007bff; text-decoration: none;">Dictionary</a>
 
 ### Mockup 🎨
 The "Mockup" folder contains mockups or visual prototypes that represent the appearance and interaction of the project's user interface.
-<a href="Documentacao/Mockup" style="color: #007bff; text-decoration: none;">Mockup</a>
+<a href="./Mockup" style="color: #007bff; text-decoration: none;">Mockup</a>
 
 ### Team 	🎭
 The "Team" folder may contain information about the project team, such as team member profiles, roles and responsibilities, or documents related to team management.
-<a href="Documentacao/Team" style="color: #007bff; text-decoration: none;">Team</a>
+<a href="./Team" style="color: #007bff; text-decoration: none;">Team</a>
 
 Feel free to explore each folder for more details on their respective contents.
 
