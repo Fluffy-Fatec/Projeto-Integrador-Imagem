@@ -73,6 +73,42 @@ The Fluffy team will develop a web application with the aim of deeply understand
 <img src = "Documentacao/Backlog/Backlog.png" width=100%>
 
 
+
+
+## User Story 
+
+| Rank           | Priority    | User Story         | Estimate | Sprint |
+| ---------------| ----------------| -------------------| -----------| -------|
+| 1 | Medium | As a user, I want to have an overview of sentiment analysis on a single screen.   | 2 | 1 |
+| 2 | High | As a user, I want to visualize charts and tables with key sentiment metrics.     | 2 | 1 |
+| 3 | High | As a user, I want to explore an interactive map with the geographical distribution of data.   | 2 | 1 |
+| 4 | Medium | As a user, I want to log in to the system with my email and password.  | 2 | 1 |
+| 5 | Medium | As an administrator, I want to have access to a permission system for different types of users.  | 2 | 1 |
+| 6 | Medium | As a developer, I want to train machine learning models for automatic sentiment analysis.  | 2 | 1 |
+| 7 | Medium | As a developer, I want to monitor the performance of models and make adjustments when necessary.   | 2 | 1 |
+| 8 | Medium | As a user, I want to edit my personal information, such as name, email, and phone number.  | 2 | 1 |
+| 9 | Medium | As a user, I want to change my password.  | 2 | 1 |
+| 10 | Medium | As a user, I want to filter data by sentiment category (positive, negative) and period (date, time). This will enable me to segment and analyze data based on the polarity of sentiments and when they were expressed, facilitating the understanding of sentiment fluctuations over time. | 2 | 2 |
+| 11 | Medium | As a user, I wish to view all data from the database in a single table. This will simplify the visualization and understanding of data, providing a comprehensive overview of available records. |2| 2 |
+| 12 | Medium | As a user, I wish for my login sessions to expire after a certain period to ensure system security. This will help protect my personal information and maintain system integrity by automatically ending inactive sessions.  | 2 | 2 |
+| 13 | Medium | As a user, I want to receive a notification before my session expires. This proactive notification will allow me to save my work or extend my session before it expires, avoiding data loss or unwanted interruptions. | 1 | 2 |
+| 14 | Medium | As a user, I wish to be able to manually log out of the system. This will provide me with control over my own sessions, allowing me to terminate the connection with the system as needed to ensure the security and privacy of my data. | 1 | 2 |
+
+
+
+<!--| 6 | High | As a platform user, I wish to have the ability to generate customized reports in popular formats such as PDF and Excel, containing sentiment analyses and data trends. This will allow me to easily share analysis results with colleagues and stakeholders. This functionality will be essential to facilitate communication and collaboration, enabling users to share valuable insights clearly and accessibly. | 1 | 3 |
+| 7 | Medium | As a platform user, I want the capability to compare different periods and categories of sentiments in the generated reports. This will enable me to identify significant insights and better understand changes over time, facilitating informed decision-making. This functionality will be essential to analyze trends and patterns in the data, providing a more comprehensive view of sentiment category performance and evolution over time. | 1 | 3 |
+| 8 |High | As a platform user, I expect to have access to performance metrics of the machine learning models used in sentiment analysis. This will allow me to assess the accuracy and reliability of analysis results, providing valuable insights to better understand the performance of the employed algorithms. This transparency will increase my confidence in the results and help me make informed decisions based on the analyses conducted. | 1 | 4 |
+| 9 | Medium | As an administrator of the platform, I desire the ability to create and edit customized tags for categorizing reviews. This will enable me to personalize the categorization system according to the specific needs of the company or industry, ensuring more accurate and relevant sentiment analysis. This functionality will be crucial to adapt the classification system to business peculiarities, improving analysis quality and providing more useful insights to platform users. | 1 | 4 |
+| 10 | Medium | As a platform user, I wish to have the ability to manually categorize reviews to improve the accuracy of sentiment analysis models. This will allow me to provide valuable feedback on review classification and contribute to the continuous improvement of sentiment analysis algorithms. This functionality will be essential to refine models and provide more accurate and relevant results to platform users. | 1 | 4 |
+
+|  |  |   |  |  |
+|  |  |   |  |  |
+|  |  |   |  |  |
+|  |  |   |  |  |
+
+-->
+
 ## Mockup
 
 
