@@ -69,10 +69,7 @@ Feel free to explore each folder for more details on their respective contents.
 | 4 | Medium | As a platform user, I desire the ability to filter reviews by geographical region (country, state, city) , allowing me to focus on specific areas of interest. This will streamline the analysis of relevant data for my objective, providing a clearer understanding of patterns and trends in different locations. This functionality will be essential to direct my analysis accurately and extract significant insights related to specific geographical areas. | 1 | 2 |
 | 5 | Medium | As a platform user, I aim to have access to graphs and tables presenting sentiment analyses in a clear and understandable manner. This will enable me to gain an overview of the data and identify important trends, facilitating comprehension of the information and assisting in informed decision-making. This functionality will be crucial to improve data interpretation and extract relevant insights efficiently. | 1 | 2 |
 | 6 | Medium | As a user, I want to filter data by sentiment category (positive, negative) and period (date, time). This will enable me to segment and analyze data based on the polarity of sentiments and when they were expressed, facilitating the understanding of sentiment fluctuations over time. | 2 | 2 |
-| 7 | Medium | As a user, I wish to view all data from the database in a single table. This will simplify the visualization and understanding of data, providing a comprehensive overview of available records. | 2 | 2 |
-| 8 | Medium | As a user, I wish for my login sessions to expire after a certain period to ensure system security. This will help protect my personal information and maintain system integrity by automatically ending inactive sessions.  | 2 | 2 |
-| 11 | Medium | As a user, I want to receive a notification before my session expires. This proactive notification will allow me to save my work or extend my session before it expires, avoiding data loss or unwanted interruptions. | 1 | 2 |
-| 12 | Medium | As a user, I wish to be able to manually log out of the system. This will provide me with control over my own sessions, allowing me to terminate the connection with the system as needed to ensure the security and privacy of my data. | 1 | 2 |
+
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
