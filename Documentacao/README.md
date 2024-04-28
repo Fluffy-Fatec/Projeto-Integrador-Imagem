@@ -37,7 +37,7 @@ Feel free to explore each folder for more details on their respective contents.
 
 <br>
 
-<p align="center"><n>DOR</n></p>
+## Dor
 
 |   Front-End         |                  Back-End                   | Database  |                       AI          |
 |-------------------------|------------------------------------------------|--------------------|-------------------|
@@ -68,7 +68,7 @@ Feel free to explore each folder for more details on their respective contents.
 | 3 | Medium | As a registered user on the platform, I wish to be able to easily update my personal information. Having access to a personalized profile will allow me to edit and maintain my data, ensuring the accuracy of the information stored by the platform. This functionality will be essential for me to keep my profile always updated and accurately reflecting my most recent information. | 1 | 1 |
 | 4 | Medium | As a platform user, I desire the ability to filter reviews by geographical region (country, state, city) , allowing me to focus on specific areas of interest. This will streamline the analysis of relevant data for my objective, providing a clearer understanding of patterns and trends in different locations. This functionality will be essential to direct my analysis accurately and extract significant insights related to specific geographical areas. | 1 | 2 |
 | 5 | Medium | As a platform user, I aim to have access to graphs and tables presenting sentiment analyses in a clear and understandable manner. This will enable me to gain an overview of the data and identify important trends, facilitating comprehension of the information and assisting in informed decision-making. This functionality will be crucial to improve data interpretation and extract relevant insights efficiently. | 1 | 2 |
-| 6 | Medium | As a user, I want to filter data by sentiment category (positive, negative) and period (date, time). This will enable me to segment and analyze data based on the polarity of sentiments and when they were expressed, facilitating the understanding of sentiment fluctuations over time. | 2 | 2 |
+| 6 | Medium | As a user, I want to filter data by sentiment category (positive, neutro , negative) and period (date, time). This will enable me to segment and analyze data based on the polarity of sentiments and when they were expressed, facilitating the understanding of sentiment fluctuations over time. | 2 | 2 |
 
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
