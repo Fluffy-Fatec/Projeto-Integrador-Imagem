@@ -109,6 +109,8 @@ The Fluffy team will develop a web application with the aim of deeply understand
 
 -->
 
+<br>
+
 ## Mockup
 
 
@@ -249,6 +251,6 @@ The Fluffy team will develop a web application with the aim of deeply understand
 <br>
 <br>
 
-[&copy; 2024 Licensed under the Academic Free License version 3.0](https://opensource.org/licenses/AFL-3.0)
+[2024 Licensed under the Academic Free License version 3.0](https://opensource.org/licenses/AFL-3.0)
 
 
