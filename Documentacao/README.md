@@ -37,7 +37,7 @@ Feel free to explore each folder for more details on their respective contents.
 
 <br>
 
-## Dor
+## D.O.R
 
 |   Front-End         |                  Back-End                   | Database  |                       AI          |
 |-------------------------|------------------------------------------------|--------------------|-------------------|
@@ -80,3 +80,62 @@ Feel free to explore each folder for more details on their respective contents.
 | 10 | Medium | As a platform user, I wish to have the ability to manually categorize reviews to improve the accuracy of sentiment analysis models. This will allow me to provide valuable feedback on review classification and contribute to the continuous improvement of sentiment analysis algorithms. This functionality will be essential to refine models and provide more accurate and relevant results to platform users. | 1 | 4 |
 
 -->
+
+
+## Mockup
+
+
+<details>
+<br>
+ <summary>Login</summary>
+<img src = "./Mockup/Tela de Login.png">
+</details>
+
+
+<details>
+<br>
+ <summary>Dashboard Screen</summary>
+<img src = "./Mockup/Dashboard.png">
+</details>
+
+
+<details>
+<br>
+ <summary>My Profile</summary>
+<img src="./Mockup/Tela Meu Perfil.png">
+</details>
+
+<details>
+<br>
+ <summary>Register</summary>
+<img src="./Mockup/Tela de Register.png">
+</details>
+
+<details>
+<br>
+ <summary>User Management</summary>
+<img src="./Mockup/Tela User Management.png">
+ </details>
+
+
+<p align="right">(<a href="#top">Scroll to top</a>)</p>
+
+
+
+### Logical Model (James Martin's Notation)
+
+<img src = "./DER/DER.png">
+
+
+## Burndown
+
+<img src = "./Burndown/Burndown.png">
+
+<p align="right">(<a href="#top">Scroll to top</a>)</p>
+
+## Data Dictionary
+
+[Click here to accesses the Data Dictionary of the Database.](https://github.com/Fluffy-Fatec/Projeto-Integrador-Imagem/blob/develop/Documentacao/Dictionary/dicionario%20de%20dados.pdf)
+
+<p align="right">(<a href="#top">Scroll to top</a>)</p>
+
