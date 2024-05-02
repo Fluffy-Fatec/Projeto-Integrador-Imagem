@@ -72,8 +72,7 @@ The Fluffy team will develop a web application with the aim of deeply understand
 
 <img src = "Documentacao/Backlog/Backlog.png" width=100%>
 
-
-
+<br>
 
 ## User Story 
 
@@ -110,63 +109,6 @@ The Fluffy team will develop a web application with the aim of deeply understand
 -->
 
 <br>
-
-## Mockup
-
-
-<details>
-<br>
- <summary>Login</summary>
-<img src = "Documentacao/Mockup/Tela de Login.png">
-</details>
-
-
-<details>
-<br>
- <summary>Dashboard Screen</summary>
-<img src = "Documentacao/Mockup/Dashboard.png">
-</details>
-
-
-<details>
-<br>
- <summary>My Profile</summary>
-<img src="Documentacao/Mockup/Tela Meu Perfil.png">
-</details>
-
-<details>
-<br>
- <summary>Register</summary>
-<img src="Documentacao/Mockup/Tela de Register.png">
-</details>
-
-<details>
-<br>
- <summary>User Management</summary>
-<img src="Documentacao/Mockup/Tela User Management.png">
- </details>
-
-
-<p align="right">(<a href="#top">Scroll to top</a>)</p>
-
-
-
-### Logical Model (James Martin's Notation)
-
-<img src = "Documentacao/DER/DER.png">
-
-
-## Burndown
-
-<img src = "Documentacao/Burndown/Burndown.png">
-
-<p align="right">(<a href="#top">Scroll to top</a>)</p>
-
-## Data Dictionary
-
-[Click here to accesses the Data Dictionary of the Database.](https://github.com/Fluffy-Fatec/Projeto-Integrador-Imagem/blob/develop/Documentacao/Dictionary/dicionario%20de%20dados.pdf)
-
-<p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 
 ## Team
