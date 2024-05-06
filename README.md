@@ -59,59 +59,12 @@ In this project, we aim to deeply understand customer sentiment through a sophis
 The Fluffy team will develop a web application with the aim of deeply understanding customer sentiment, using an advanced platform that analyzes online reviews. By integrating cutting-edge technologies, we will provide companies with actionable insights to adjust strategies with unprecedented precision, ushering in a new era of data-driven customer engagement. This convergence of technology and strategic business thinking will enable companies to anticipate customer needs and strengthen global connections.
 
 
-Aiming to solve the project, the system will be delivered in four sprints:
-
-
-| Sprint                  | Need      | Product         |
-| ------------------------| -------------|-------------|
-|Sprint 1                 | Visualization dashboard and login features | System developed with visualization functionality on feelings in different graphs and visualization functions for creating login |
-|Sprint 2                 | Complete the dashboard with sentiment analysis functionalities and session management. | System developed with sentiment analysis features and filters on the dashboardand various dynamic graphs  |
-|Sprint 3                 | visualization of advanced functionalities for generating reports and analysis history  | System that generates graph reports and can monitor and access logs  |
-|Sprint 4                 | complete data categorization and finalize the project | System will be finalized and data categorization will be refined towards the end of the project |
-
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Schedule
 
 <img src= "Documentacao/Backlog/Schedule.png">
 
-<p align="right">(<a href="#top">Scroll to top</a>)</p>
-
-
-## DOR
-
-| DOR Item                | Descrição                                      |
-|-------------------------|------------------------------------------------|
-| Requisitos claros      | Todos os requisitos estão bem definidos e compreendidos.|
-| Critérios de aceitação | Critérios claros estabelecidos para determinar quando uma tarefa está completa.|
-| Estimativas de esforço | Estimativas de esforço e recursos necessários para concluir a tarefa.|
-| Priorização clara      | Prioridade da tarefa está definida e compreendida.|
-| Ambiente de desenvolvimento configurado | Ambiente de desenvolvimento está configurado e pronto para a tarefa.|
-
-<br>
-
-## Product Backlog
-
-| Rank           | Priority    | User Story         | Estimate | Sprint |
-| ---------------| ----------------| -------------------| -----------| -------|
-| 1 | High   | As a platform user, I expect to have access to an interactive map displaying the geographic distribution of customer reviews. This will enable me to identify areas with higher data density, facilitating regional analysis and the identification of specific trends in different regions. This functionality will be crucial for a more comprehensive analysis and for better understanding how reviews are geographically distributed, providing valuable insights to improve decision-making and enhance the customer experience. | 1 | 1 |
-| 2 | High   | As a registered user, I want to be able to securely log in to the platform to access my information and start my data analysis. Secure authentication is essential to protect my personal information and ensure access only to authorized users. This functionality will be fundamental to guaranteeing the integrity and security of user data, providing a reliable and protected experience on the platform. | 1 | 1 |
-| 3 | Medium | As a registered user on the platform, I wish to be able to easily update my personal information. Having access to a personalized profile will allow me to edit and maintain my data, ensuring the accuracy of the information stored by the platform. This functionality will be essential for me to keep my profile always updated and accurately reflecting my most recent information. | 1 | 1 |
-| 4 | Medium | As a platform user, I desire the ability to filter reviews by geographical region (country, state, city) , allowing me to focus on specific areas of interest. This will streamline the analysis of relevant data for my objective, providing a clearer understanding of patterns and trends in different locations. This functionality will be essential to direct my analysis accurately and extract significant insights related to specific geographical areas. | 1 | 2 |
-| 5 | Medium | As a platform user, I aim to have access to graphs and tables presenting sentiment analyses in a clear and understandable manner. This will enable me to gain an overview of the data and identify important trends, facilitating comprehension of the information and assisting in informed decision-making. This functionality will be crucial to improve data interpretation and extract relevant insights efficiently. | 1 | 2 |
-| 6 | Medium | As a user, I want to filter data by sentiment category (positive, negative) and period (date, time). This will enable me to segment and analyze data based on the polarity of sentiments and when they were expressed, facilitating the understanding of sentiment fluctuations over time. | 2 | 2 |
-| 7 | Medium | As a user, I wish to view all data from the database in a single table. This will simplify the visualization and understanding of data, providing a comprehensive overview of available records. | 2 | 2 |
-| 8 | Medium | As a user, I wish for my login sessions to expire after a certain period to ensure system security. This will help protect my personal information and maintain system integrity by automatically ending inactive sessions.  | 2 | 2 |
-| 11 | Medium | As a user, I want to receive a notification before my session expires. This proactive notification will allow me to save my work or extend my session before it expires, avoiding data loss or unwanted interruptions. | 1 | 2 |
-| 12 | Medium | As a user, I wish to be able to manually log out of the system. This will provide me with control over my own sessions, allowing me to terminate the connection with the system as needed to ensure the security and privacy of my data. | 1 | 2 |
-
-<!--| 6 | High | As a platform user, I wish to have the ability to generate customized reports in popular formats such as PDF and Excel, containing sentiment analyses and data trends. This will allow me to easily share analysis results with colleagues and stakeholders. This functionality will be essential to facilitate communication and collaboration, enabling users to share valuable insights clearly and accessibly. | 1 | 3 |
-| 7 | Medium | As a platform user, I want the capability to compare different periods and categories of sentiments in the generated reports. This will enable me to identify significant insights and better understand changes over time, facilitating informed decision-making. This functionality will be essential to analyze trends and patterns in the data, providing a more comprehensive view of sentiment category performance and evolution over time. | 1 | 3 |
-| 8 |High | As a platform user, I expect to have access to performance metrics of the machine learning models used in sentiment analysis. This will allow me to assess the accuracy and reliability of analysis results, providing valuable insights to better understand the performance of the employed algorithms. This transparency will increase my confidence in the results and help me make informed decisions based on the analyses conducted. | 1 | 4 |
-| 9 | Medium | As an administrator of the platform, I desire the ability to create and edit customized tags for categorizing reviews. This will enable me to personalize the categorization system according to the specific needs of the company or industry, ensuring more accurate and relevant sentiment analysis. This functionality will be crucial to adapt the classification system to business peculiarities, improving analysis quality and providing more useful insights to platform users. | 1 | 4 |
-| 10 | Medium | As a platform user, I wish to have the ability to manually categorize reviews to improve the accuracy of sentiment analysis models. This will allow me to provide valuable feedback on review classification and contribute to the continuous improvement of sentiment analysis algorithms. This functionality will be essential to refine models and provide more accurate and relevant results to platform users. | 1 | 4 |
-
--->
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
@@ -119,53 +72,43 @@ Aiming to solve the project, the system will be delivered in four sprints:
 
 <img src = "Documentacao/Backlog/Backlog.png" width=100%>
 
+<br>
 
-## Mockup
-<hr>
+## User Story 
 
-### Login
-
-<img src = "Documentacao/Mockup/Tela de Login.png">
-
-### Dashboard Screen
-
-<img src = "Documentacao/Mockup/Dashboard.png">
-
-### My Profile
-
-<img src="Documentacao/Mockup/Tela Meu Perfil.png">
-
-
-### Register
-
-<img src="Documentacao/Mockup/Tela de Register.png">
-
-### User Management
-
-<img src="Documentacao/Mockup/Tela User Management.png">
- 
-
-
-<p align="right">(<a href="#top">Scroll to top</a>)</p>
+| Rank           | Priority    | User Story         | Estimate | Sprint |
+| ---------------| ----------------| -------------------| -----------| -------|
+| 1 | Medium | As a user, I want to have an overview of sentiment analysis on a single screen.   | 2 | 1 |
+| 2 | High | As a user, I want to visualize charts and tables with key sentiment metrics.     | 2 | 1 |
+| 3 | High | As a user, I want to explore an interactive map with the geographical distribution of data.   | 2 | 1 |
+| 4 | Medium | As a user, I want to log in to the system with my email and password.  | 2 | 1 |
+| 5 | Medium | As an administrator, I want to have access to a permission system for different types of users.  | 2 | 1 |
+| 6 | Medium | As a developer, I want to train machine learning models for automatic sentiment analysis.  | 2 | 1 |
+| 7 | Medium | As a developer, I want to monitor the performance of models and make adjustments when necessary.   | 2 | 1 |
+| 8 | Medium | As a user, I want to edit my personal information, such as name, email, and phone number.  | 2 | 1 |
+| 9 | Medium | As a user, I want to change my password.  | 2 | 1 |
+| 10 | Medium | As a user, I want to filter data by sentiment category (positive, negative) and period (date, time). This will enable me to segment and analyze data based on the polarity of sentiments and when they were expressed, facilitating the understanding of sentiment fluctuations over time. | 2 | 2 |
+| 11 | Medium | As a user, I wish to view all data from the database in a single table. This will simplify the visualization and understanding of data, providing a comprehensive overview of available records. |2| 2 |
+| 12 | Medium | As a user, I wish for my login sessions to expire after a certain period to ensure system security. This will help protect my personal information and maintain system integrity by automatically ending inactive sessions.  | 2 | 2 |
+| 13 | Medium | As a user, I want to receive a notification before my session expires. This proactive notification will allow me to save my work or extend my session before it expires, avoiding data loss or unwanted interruptions. | 1 | 2 |
+| 14 | Medium | As a user, I wish to be able to manually log out of the system. This will provide me with control over my own sessions, allowing me to terminate the connection with the system as needed to ensure the security and privacy of my data. | 1 | 2 |
 
 
 
-### Logical Model (James Martin's Notation)
+<!--| 6 | High | As a platform user, I wish to have the ability to generate customized reports in popular formats such as PDF and Excel, containing sentiment analyses and data trends. This will allow me to easily share analysis results with colleagues and stakeholders. This functionality will be essential to facilitate communication and collaboration, enabling users to share valuable insights clearly and accessibly. | 1 | 3 |
+| 7 | Medium | As a platform user, I want the capability to compare different periods and categories of sentiments in the generated reports. This will enable me to identify significant insights and better understand changes over time, facilitating informed decision-making. This functionality will be essential to analyze trends and patterns in the data, providing a more comprehensive view of sentiment category performance and evolution over time. | 1 | 3 |
+| 8 |High | As a platform user, I expect to have access to performance metrics of the machine learning models used in sentiment analysis. This will allow me to assess the accuracy and reliability of analysis results, providing valuable insights to better understand the performance of the employed algorithms. This transparency will increase my confidence in the results and help me make informed decisions based on the analyses conducted. | 1 | 4 |
+| 9 | Medium | As an administrator of the platform, I desire the ability to create and edit customized tags for categorizing reviews. This will enable me to personalize the categorization system according to the specific needs of the company or industry, ensuring more accurate and relevant sentiment analysis. This functionality will be crucial to adapt the classification system to business peculiarities, improving analysis quality and providing more useful insights to platform users. | 1 | 4 |
+| 10 | Medium | As a platform user, I wish to have the ability to manually categorize reviews to improve the accuracy of sentiment analysis models. This will allow me to provide valuable feedback on review classification and contribute to the continuous improvement of sentiment analysis algorithms. This functionality will be essential to refine models and provide more accurate and relevant results to platform users. | 1 | 4 |
 
-<img src = "Documentacao/DER/DER.png">
+|  |  |   |  |  |
+|  |  |   |  |  |
+|  |  |   |  |  |
+|  |  |   |  |  |
 
+-->
 
-## Burndown
-
-<img src = "Documentacao/Burndown/Burndown.png">
-
-<p align="right">(<a href="#top">Scroll to top</a>)</p>
-
-## Data Dictionary
-
-[Click here to accesses the Data Dictionary of the Database.](https://github.com/Fluffy-Fatec/Projeto-Integrador-Imagem/blob/develop/Documentacao/Dictionary/dicionario%20de%20dados.pdf)
-
-<p align="right">(<a href="#top">Scroll to top</a>)</p>
+<br>
 
 
 ## Team
@@ -250,6 +193,6 @@ Aiming to solve the project, the system will be delivered in four sprints:
 <br>
 <br>
 
-[&copy; 2024 Licensed under the Academic Free License version 3.0](https://opensource.org/licenses/AFL-3.0)
+[2024 Licensed under the Academic Free License version 3.0](https://opensource.org/licenses/AFL-3.0)
 
 
