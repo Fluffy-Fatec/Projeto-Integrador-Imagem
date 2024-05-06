@@ -121,15 +121,30 @@ Feel free to explore each folder for more details on their respective contents.
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 
-
 ### Logical Model (James Martin's Notation)
-
+<details>
+ <summary>DER Sprint 1</summary>
 <img src = "./DER/DER.png">
+ </details>
 
+ <details>
+ <summary>DER Sprint 2</summary>
+<img src = "./DER/DER1.png">
+</details>
+
+<br>
 
 ## Burndown
 
+ <details>
+ <summary>Sprint 1</summary>
 <img src = "./Burndown/Burndown.png">
+</details>
+
+ <details>
+ <summary>Sprint 2</summary>
+<img src = "./Burndown/Burndown1.png">
+</details>
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
