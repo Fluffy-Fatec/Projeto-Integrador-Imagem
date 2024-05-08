@@ -45,9 +45,9 @@ Feel free to explore each folder for more details on their respective contents.
 | Stories properly estimated by the development team | Stories properly estimated by the development team  | Always the latest version of the database  | Library where AI is trained |
 | Libraries used in the visual part |  Time estimation established for tasks | Fields with properly constructed values in the table | Maintain good accuracy in development |
 | Time estimation established for tasks | Tasks with detailed descriptions | Versioned dependencies ready in the Git repository | Refinement |
-| Tasks with detailed descriptions  | Task complexity clearly defined |   | Test before even visioning |
-| Task complexity clearly defined | API documented in Swagger |   | Versioned dependencies ready in the Git repository |
-| Test before even visioning | Test before even visioning  |  |  |
+| Tasks with detailed descriptions  | Task complexity clearly defined |   | Post a sample of the AI ​​to the team |
+| Task complexity clearly defined | API documented in Swagger |   | Test before even visioning |
+| Test before even visioning | Test before even visioning  |  |  Versioned dependencies ready in the Git repository  |
 | Versioned dependencies ready in the Git repository | Versioned dependencies ready in the Git repository   |  |  |
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
