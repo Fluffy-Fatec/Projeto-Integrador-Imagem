@@ -150,8 +150,18 @@ Feel free to explore each folder for more details on their respective contents.
 
 ## Data Dictionary
 
-[Click here to accesses the Data Dictionary of the Database.](https://github.com/Fluffy-Fatec/Projeto-Integrador-Imagem/blob/develop/Documentacao/Dictionary/dicionario%20de%20dados.pdf)
 
-Documentacao/Dictionary/dicionario de dados 2.pdf
+ <details>
+ <summary>Sprint 1</summary>
+  
+[Click here to accesses the Data Dictionary of the Database.](https://github.com/Fluffy-Fatec/Projeto-Integrador-Imagem/blob/develop/Documentacao/Dictionary/dicionario%20de%20dados.pdf)
+</details>
+
+ <details>
+ <summary>Sprint 2</summary>
+  
+[Click here to accesses the Data Dictionary of the Database.](https://github.com/Fluffy-Fatec/Projeto-Integrador-Imagem/blob/develop/Documentacao/Dictionary/dicionario%20de%20dados.pdf)
+</details>
+
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
