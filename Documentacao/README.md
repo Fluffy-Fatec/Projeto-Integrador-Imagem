@@ -160,7 +160,7 @@ Feel free to explore each folder for more details on their respective contents.
  <details>
  <summary>Sprint 2</summary>
   
-[Click here to accesses the Data Dictionary of the Database.](https://github.com/Fluffy-Fatec/Projeto-Integrador-Imagem/blob/develop/Documentacao/Dictionary/dicionario%20de%20dados.pdf)
+[Click here to accesses the Data Dictionary of the Database.](https://github.com/Fluffy-Fatec/Projeto-Integrador-Imagem/blob/main/Documentacao/Dictionary/dicionario%20de%20dados%202.pdf)
 </details>
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
