@@ -45,9 +45,9 @@ Feel free to explore each folder for more details on their respective contents.
 | Stories properly estimated by the development team | Stories properly estimated by the development team  | Always the latest version of the database  | Library where AI is trained |
 | Libraries used in the visual part |  Time estimation established for tasks | Fields with properly constructed values in the table | Maintain good accuracy in development |
 | Time estimation established for tasks | Tasks with detailed descriptions | Versioned dependencies ready in the Git repository | Refinement |
-| Tasks with detailed descriptions  | Task complexity clearly defined |   | Test before even visioning |
-| Task complexity clearly defined | API documented in Swagger |   | Versioned dependencies ready in the Git repository |
-| Test before even visioning | Test before even visioning  |  |  |
+| Tasks with detailed descriptions  | Task complexity clearly defined |   | Post a sample of the AI ​​to the team |
+| Task complexity clearly defined | API documented in Swagger |   | Test before even visioning |
+| Test before even visioning | Test before even visioning  |  |  Versioned dependencies ready in the Git repository  |
 | Versioned dependencies ready in the Git repository | Versioned dependencies ready in the Git repository   |  |  |
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
@@ -69,6 +69,10 @@ Feel free to explore each folder for more details on their respective contents.
 | 4 | Medium | As a platform user, I desire the ability to filter reviews by geographical region (country, state, city) , allowing me to focus on specific areas of interest. This will streamline the analysis of relevant data for my objective, providing a clearer understanding of patterns and trends in different locations. This functionality will be essential to direct my analysis accurately and extract significant insights related to specific geographical areas. | 1 | 2 |
 | 5 | Medium | As a platform user, I aim to have access to graphs and tables presenting sentiment analyses in a clear and understandable manner. This will enable me to gain an overview of the data and identify important trends, facilitating comprehension of the information and assisting in informed decision-making. This functionality will be crucial to improve data interpretation and extract relevant insights efficiently. | 1 | 2 |
 | 6 | Medium | As a user, I want to filter data by sentiment category (positive, neutro , negative) and period (date, time). This will enable me to segment and analyze data based on the polarity of sentiments and when they were expressed, facilitating the understanding of sentiment fluctuations over time. | 2 | 2 |
+| 7 | Medium | As a user, I want to generate detailed reports that show sentiment trends over time and across different categories, allowing me to better understand how emotions vary in specific areas of interest. These reports should provide graphs and analyses that highlight emotional changes over time, as well as enable comparisons between different sentiment categories. This will help me identify patterns, trends, and valuable insights for making informed decisions.                                                                                                                               | 2 | 3 |
+| 8 | Medium | As a user, I want the ability to manually categorize reviews using custom tags. I wish to assign meaningful and relevant tags to each review, allowing for more accurate data organization based on specific analysis criteria. Additionally, I want to be able to edit tags as needed, ensuring flexibility and adaptability in the tagging process.| 2 | 3 |
+| 9 | Medium |  As a user, I want access to a detailed record of all report and review sharing activities within the platform. This record should include information such as date, time, involved users, and the shared content. I want to be able to view this log easily and intuitively, allowing me to efficiently track and monitor the distribution of information within the team.                                                                                                                                     | 2 | 3 |
+
 
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
@@ -150,8 +154,18 @@ Feel free to explore each folder for more details on their respective contents.
 
 ## Data Dictionary
 
-[Click here to accesses the Data Dictionary of the Database.](https://github.com/Fluffy-Fatec/Projeto-Integrador-Imagem/blob/main/Documentacao/Dictionary/dicionario%20de%20dados%202.pdf)
 
-Documentacao/Dictionary/dicionario de dados 2.pdf
+ <details>
+ <summary>Sprint 1</summary>
+  
+[Click here to accesses the Data Dictionary of the Database.](https://github.com/Fluffy-Fatec/Projeto-Integrador-Imagem/blob/develop/Documentacao/Dictionary/dicionario%20de%20dados.pdf)
+</details>
+
+ <details>
+ <summary>Sprint 2</summary>
+  
+[Click here to accesses the Data Dictionary of the Database.](https://github.com/Fluffy-Fatec/Projeto-Integrador-Imagem/blob/main/Documentacao/Dictionary/dicionario%20de%20dados%202.pdf)
+</details>
+
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
