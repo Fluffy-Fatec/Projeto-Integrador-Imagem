@@ -136,6 +136,11 @@ Feel free to explore each folder for more details on their respective contents.
 <img src = "./DER/DER1.png">
 </details>
 
+ <details>
+ <summary>DER Sprint 3</summary>
+<img src = "./DER/DER2.png">
+</details>
+
 <br>
 
 ## Burndown
@@ -148,6 +153,12 @@ Feel free to explore each folder for more details on their respective contents.
  <details>
  <summary>Sprint 2</summary>
 <img src = "./Burndown/Burndown1.png">
+</details>
+
+
+ <details>
+ <summary>Sprint 3</summary>
+<img src = "./Burndown/Burndown2.png">
 </details>
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
@@ -165,6 +176,12 @@ Feel free to explore each folder for more details on their respective contents.
  <summary>Sprint 2</summary>
   
 [Click here to accesses the Data Dictionary of the Database.](https://github.com/Fluffy-Fatec/Projeto-Integrador-Imagem/blob/main/Documentacao/Dictionary/dicionario%20de%20dados%202.pdf)
+</details>
+
+  <details>
+<summary>Sprint 3</summary>
+  
+[Click here to accesses the Data Dictionary of the Database.](https://github.com/Fluffy-Fatec/Projeto-Integrador-Imagem/blob/develop/Documentation/Dictionary/dicionario%20de%20dado%203.pdf)
 </details>
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
