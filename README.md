@@ -92,14 +92,13 @@ The Fluffy team will develop a web application with the aim of deeply understand
 | 12 | Medium | As a user, I wish for my login sessions to expire after a certain period to ensure system security. This will help protect my personal information and maintain system integrity by automatically ending inactive sessions.  | 2 | 2 |
 | 13 | Medium | As a user, I want to receive a notification before my session expires. This proactive notification will allow me to save my work or extend my session before it expires, avoiding data loss or unwanted interruptions. | 1 | 2 |
 | 14 | Medium | As a user, I wish to be able to manually log out of the system. This will provide me with control over my own sessions, allowing me to terminate the connection with the system as needed to ensure the security and privacy of my data. | 1 | 2 |
+| 15 | High | As a platform user, I wish to have the ability to generate customized reports in popular formats such as PDF and Excel, containing sentiment analyses and data trends. This will allow me to easily share analysis results with colleagues and stakeholders. This functionality will be essential to facilitate communication and collaboration, enabling users to share valuable insights clearly and accessibly. | 1 | 3 |
+| 16 | Medium | As a platform user, I want the capability to compare different periods and categories of sentiments in the generated reports. This will enable me to identify significant insights and better understand changes over time, facilitating informed decision-making. This functionality will be essential to analyze trends and patterns in the data, providing a more comprehensive view of sentiment category performance and evolution over time. | 1 | 3 |
 
 
-
-<!--| 6 | High | As a platform user, I wish to have the ability to generate customized reports in popular formats such as PDF and Excel, containing sentiment analyses and data trends. This will allow me to easily share analysis results with colleagues and stakeholders. This functionality will be essential to facilitate communication and collaboration, enabling users to share valuable insights clearly and accessibly. | 1 | 3 |
-| 7 | Medium | As a platform user, I want the capability to compare different periods and categories of sentiments in the generated reports. This will enable me to identify significant insights and better understand changes over time, facilitating informed decision-making. This functionality will be essential to analyze trends and patterns in the data, providing a more comprehensive view of sentiment category performance and evolution over time. | 1 | 3 |
-| 8 |High | As a platform user, I expect to have access to performance metrics of the machine learning models used in sentiment analysis. This will allow me to assess the accuracy and reliability of analysis results, providing valuable insights to better understand the performance of the employed algorithms. This transparency will increase my confidence in the results and help me make informed decisions based on the analyses conducted. | 1 | 4 |
+<!-- | 8 |High | As a platform user, I expect to have access to performance metrics of the machine learning models used in sentiment analysis. This will allow me to assess the accuracy and reliability of analysis results, providing valuable insights to better understand the performance of the employed algorithms. This transparency will increase my confidence in the results and help me make informed decisions based on the analyses conducted. | 1 | 4 |
 | 9 | Medium | As an administrator of the platform, I desire the ability to create and edit customized tags for categorizing reviews. This will enable me to personalize the categorization system according to the specific needs of the company or industry, ensuring more accurate and relevant sentiment analysis. This functionality will be crucial to adapt the classification system to business peculiarities, improving analysis quality and providing more useful insights to platform users. | 1 | 4 |
-| 10 | Medium | As a platform user, I wish to have the ability to manually categorize reviews to improve the accuracy of sentiment analysis models. This will allow me to provide valuable feedback on review classification and contribute to the continuous improvement of sentiment analysis algorithms. This functionality will be essential to refine models and provide more accurate and relevant results to platform users. | 1 | 4 |
+| 10 | Medium | As a platform user, I wish to have the ability to manually categorize reviews to improve the accuracy of sentiment analysis models. This will allow me to provide valuable feedback on review classification and contribute to the continuous improvement of sentiment analysis algorithms. This functionality will be essential to refine models and provide more accurate and relevant results to platform users. | 1 | 4 | -->
 
 |  |  |   |  |  |
 |  |  |   |  |  |
@@ -132,7 +131,8 @@ The Fluffy team will develop a web application with the aim of deeply understand
 
 * [Vite+React.Js](https://vitejs.dev/guide/)
 * [Mui](https://mui.com/material-ui/getting-started/installation/)
-
+* [ApexCharts](https://apexcharts.com/docs/options/chart/events/#click)
+  
 </details>
 
 <details>
@@ -140,7 +140,6 @@ The Fluffy team will develop a web application with the aim of deeply understand
 
 * [Java](https://www.java.com/pt-BR/?msclkid=7faa842eb8f811ecab39772d4c1ae90b)
 * [Spring boot](https://spring.io/projects/spring-boot) 
-
 </details>
 
 <details>
@@ -154,8 +153,10 @@ The Fluffy team will develop a web application with the aim of deeply understand
 <summary>Database</summary>
       
 * [PostgreSQL](https://www.postgresql.org/ftp/pgadmin/pgadmin4/v8.4/windows/)
+
 * [MongoDb](https://www.mongodb.com/try/download/community)
-</details>
+
+
 
 <details>
 <summary>Meetings and Communication</summary>
