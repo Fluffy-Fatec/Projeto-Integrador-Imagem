@@ -1,6 +1,6 @@
 # Projeto-Integrador-Imagem
 
-<img src = "./Documentacao/Team/pandalyzeheader.jpg/">
+<img src = "./Documentation/Team/pandalyzeheader.jpg/">
 <br>
 
 <p align="center"> 
@@ -63,14 +63,14 @@ The Fluffy team will develop a web application with the aim of deeply understand
 
 ## Schedule
 
-<img src= "Documentacao/Backlog/Schedule.png">
+<img src= "Documentation/Backlog/Schedule.png">
 
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Sprint Backlog
 
-<img src = "Documentacao/Backlog/Backlog.png" width=100%>
+<img src = "Documentation/Backlog/Backlog.png" width=100%>
 
 <br>
 
@@ -115,13 +115,13 @@ The Fluffy team will develop a web application with the aim of deeply understand
 
 | Avatar            							| Student         | Function           		| GitHub                                                      | LinkedIn                                              |
 | -------------------------------------------- | ---------------- | ---------------- | -------------------------------------------------------------- | ----------------------------------------------------- |
-| <img src = "Documentacao/Team/Emanuele.jpeg" width="60" >|__Emanuele Diniz__| *Product Owner*| [![](https://bit.ly/3f9Xo0P)](https://github.com/ecampos14) | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/emanuele-diniz-campos-b14699181) |
-| <img src = "Documentacao/Team/Michael.jpeg" width="60" >|__Michael Felipe__| *Scrum Master* | [![](https://bit.ly/3f9Xo0P)](https://github.com/Michaelfss/Michaelfss) | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/michael-felipe-573b64167) |
-| <img src = "Documentacao/Team/Ana Clara.jpeg" width="60" >|__Ana Clara Leal__| *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/heyanaleal)      | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/ana-clara-oliveira-leal-723169220/) |
-| <img src = "Documentacao/Team/Aldrik.jpeg" width="60" >|__Aldrik Álvaro__| *Developer Team*| [![](https://bit.ly/3f9Xo0P)](https://github.com/Aldrik-Alvaro) | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/aldrik-alvaro-0bb952180/) |
-| <img src = "Documentacao/Team/Luiz.jpeg" width="60" >|__Luiz Felipe Borges__ | *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/luizborges17)   | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/luizborges17/) |
-| <img src = "Documentacao/Team/Tiago.jpeg" width="60" >|__Tiago Camillo__| *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/tiagocamillo) | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/tiago-camillo-277257192/) |
-| <img src = "Documentacao/Team/Victor.jpeg" width="60" >|__Victor Fernandes__  | *Developer Team*  | [![](https://bit.ly/3f9Xo0P)](https://github.com/victornaca)| [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/victor-fernandes-1a61a917b/) |
+| <img src = "Documentation/Team/Emanuele.jpeg" width="60" >|__Emanuele Diniz__| *Product Owner*| [![](https://bit.ly/3f9Xo0P)](https://github.com/ecampos14) | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/emanuele-diniz-campos-b14699181) |
+| <img src = "Documentation/Team/Michael.jpeg" width="60" >|__Michael Felipe__| *Scrum Master* | [![](https://bit.ly/3f9Xo0P)](https://github.com/Michaelfss/Michaelfss) | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/michael-felipe-573b64167) |
+| <img src = "Documentation/Team/Ana Clara.jpeg" width="60" >|__Ana Clara Leal__| *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/heyanaleal)      | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/ana-clara-oliveira-leal-723169220/) |
+| <img src = "Documentation/Team/Aldrik.jpeg" width="60" >|__Aldrik Álvaro__| *Developer Team*| [![](https://bit.ly/3f9Xo0P)](https://github.com/Aldrik-Alvaro) | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/aldrik-alvaro-0bb952180/) |
+| <img src = "Documentation/Team/Luiz.jpeg" width="60" >|__Luiz Felipe Borges__ | *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/luizborges17)   | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/luizborges17/) |
+| <img src = "Documentation/Team/Tiago.jpeg" width="60" >|__Tiago Camillo__| *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/tiagocamillo) | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/tiago-camillo-277257192/) |
+| <img src = "Documentation/Team/Victor.jpeg" width="60" >|__Victor Fernandes__  | *Developer Team*  | [![](https://bit.ly/3f9Xo0P)](https://github.com/victornaca)| [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/victor-fernandes-1a61a917b/) |
 
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
@@ -132,8 +132,6 @@ The Fluffy team will develop a web application with the aim of deeply understand
 
 * [Vite+React.Js](https://vitejs.dev/guide/)
 * [Mui](https://mui.com/material-ui/getting-started/installation/)
-* [HTML](https://www.w3schools.com/css/)
-* [CSS](https://www.w3schools.com/css/)
 
 </details>
 
@@ -156,17 +154,15 @@ The Fluffy team will develop a web application with the aim of deeply understand
 <summary>Database</summary>
       
 * [PostgreSQL](https://www.postgresql.org/ftp/pgadmin/pgadmin4/v8.4/windows/)
+* [MongoDb](https://www.mongodb.com/try/download/community)
 </details>
 
 <details>
 <summary>Meetings and Communication</summary>
 
 * [Jira](https://www.atlassian.com/software/jira)
-
 * [Confluience](https://www.atlassian.com/br/software/confluence)
-
 * [Discord](https://discord.com/?msclkid=b4f5af84b8f811ecbd81c127a0ae68a7)
-
 * [Whatsapp](https://www.whatsapp.com/)
 
 * [Slack](https://slack.com/intl/pt-br/?msclkid=c00e628eb8f811ecaef374bb86d7f056)
@@ -177,7 +173,7 @@ The Fluffy team will develop a web application with the aim of deeply understand
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 <br>
-<img src = "./Documentacao/Team/pandalyzefolder.jpg">
+<img src = "./Documentation/Team/pandalyzefolder.jpg">
 <br>
 
 
