@@ -100,12 +100,6 @@ The Fluffy team will develop a web application with the aim of deeply understand
 | 9 | Medium | As an administrator of the platform, I desire the ability to create and edit customized tags for categorizing reviews. This will enable me to personalize the categorization system according to the specific needs of the company or industry, ensuring more accurate and relevant sentiment analysis. This functionality will be crucial to adapt the classification system to business peculiarities, improving analysis quality and providing more useful insights to platform users. | 1 | 4 |
 | 10 | Medium | As a platform user, I wish to have the ability to manually categorize reviews to improve the accuracy of sentiment analysis models. This will allow me to provide valuable feedback on review classification and contribute to the continuous improvement of sentiment analysis algorithms. This functionality will be essential to refine models and provide more accurate and relevant results to platform users. | 1 | 4 | -->
 
-|  |  |   |  |  |
-|  |  |   |  |  |
-|  |  |   |  |  |
-|  |  |   |  |  |
-
--->
 
 <br>
 
@@ -156,7 +150,7 @@ The Fluffy team will develop a web application with the aim of deeply understand
 
 * [MongoDb](https://www.mongodb.com/try/download/community)
 
-
+</details>
 
 <details>
 <summary>Meetings and Communication</summary>
@@ -165,18 +159,17 @@ The Fluffy team will develop a web application with the aim of deeply understand
 * [Confluience](https://www.atlassian.com/br/software/confluence)
 * [Discord](https://discord.com/?msclkid=b4f5af84b8f811ecbd81c127a0ae68a7)
 * [Whatsapp](https://www.whatsapp.com/)
-
 * [Slack](https://slack.com/intl/pt-br/?msclkid=c00e628eb8f811ecaef374bb86d7f056)
-
 * [Figma](https://www.figma.com/)
+
 </details>
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 <br>
 <img src = "./Documentation/Team/pandalyzefolder.jpg">
-<br>
 
+<br>
 
 <div align="center">
 
