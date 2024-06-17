@@ -94,11 +94,9 @@ The Fluffy team will develop a web application with the aim of deeply understand
 | 14 | Medium | As a user, I wish to be able to manually log out of the system. This will provide me with control over my own sessions, allowing me to terminate the connection with the system as needed to ensure the security and privacy of my data. | 1 | 2 |
 | 15 | High | As a platform user, I wish to have the ability to generate customized reports in popular formats such as PDF and Excel, containing sentiment analyses and data trends. This will allow me to easily share analysis results with colleagues and stakeholders. This functionality will be essential to facilitate communication and collaboration, enabling users to share valuable insights clearly and accessibly. | 1 | 3 |
 | 16 | Medium | As a platform user, I want the capability to compare different periods and categories of sentiments in the generated reports. This will enable me to identify significant insights and better understand changes over time, facilitating informed decision-making. This functionality will be essential to analyze trends and patterns in the data, providing a more comprehensive view of sentiment category performance and evolution over time. | 1 | 3 |
-
-
-<!-- | 8 |High | As a platform user, I expect to have access to performance metrics of the machine learning models used in sentiment analysis. This will allow me to assess the accuracy and reliability of analysis results, providing valuable insights to better understand the performance of the employed algorithms. This transparency will increase my confidence in the results and help me make informed decisions based on the analyses conducted. | 1 | 4 |
-| 9 | Medium | As an administrator of the platform, I desire the ability to create and edit customized tags for categorizing reviews. This will enable me to personalize the categorization system according to the specific needs of the company or industry, ensuring more accurate and relevant sentiment analysis. This functionality will be crucial to adapt the classification system to business peculiarities, improving analysis quality and providing more useful insights to platform users. | 1 | 4 |
-| 10 | Medium | As a platform user, I wish to have the ability to manually categorize reviews to improve the accuracy of sentiment analysis models. This will allow me to provide valuable feedback on review classification and contribute to the continuous improvement of sentiment analysis algorithms. This functionality will be essential to refine models and provide more accurate and relevant results to platform users. | 1 | 4 | -->
+| 17 |High | As a user, it is essential for me to have the ability to import my own data into the system for analysis. This feature allows me to upload files containing relevant information directly to the platform, facilitating personalized analysis of specific data. The interface should be intuitive, allowing CSV file uploads and providing real-time feedback on the upload status. This functionality is crucial to ensure that users can utilize their own data sources and obtain relevant insights through the analysis tools available in the system. | 1 | 4 |
+| 18 | Medium | As an administrator, I want the ability to monitor system users on a specific screen. This functionality allows me to track user activity, understand usage patterns, and identify any anomalous behavior. The dashboard should provide an overview of active users, their access time, actions taken, and any relevant alerts or notifications. Having this visibility is crucial to ensuring system security, effectively managing resources, and improving the user experience based on real usage data. | 1 | 4 |
+| 19 | Medium | As a platform user,In addition to monitoring users, it is essential for me, as an administrator, to be able to view system logs to track activities. Logs are detailed records of operations performed within the system, including accesses, configuration changes, errors, and other significant actions. Having access to these logs allows for in-depth analysis of potential issues, facilitating the identification and resolution of failures. This is also vital for security audits, ensuring that all activities are properly documented and can be reviewed as needed. | 1 | 4 | 
 
 
 <br>
@@ -137,7 +135,7 @@ The Fluffy team will develop a web application with the aim of deeply understand
 </details>
 
 <details>
-<summary>IA</summary>
+<summary>AI</summary>
       
 * [Python](https://www.python.org/downloads/)
 * [sklearn.neural_network.MLPClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html)
