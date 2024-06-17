@@ -135,7 +135,7 @@ The Fluffy team will develop a web application with the aim of deeply understand
 </details>
 
 <details>
-<summary>IA</summary>
+<summary>AI</summary>
       
 * [Python](https://www.python.org/downloads/)
 * [sklearn.neural_network.MLPClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html)

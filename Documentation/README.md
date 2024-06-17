@@ -21,6 +21,11 @@ that describes the structure of entities and their relationships in the project 
 The "Dictionary" folder includes documents or files that describe terms, abbreviations, and specific concepts used in the project database.
 <a href="./Dictionary" style="color: #007bff; text-decoration: none;">Dictionary</a>
 
+### LGPD 📙
+The "LGPD" folder includes documents that describe the terms and points that cover 4 LGPD topics in our project.
+<a href="./LGPD" style="color: #007bff; text-decoration: none;">LGPD</a>
+
+
 ### Mockup 🎨
 The "Mockup" folder contains mockups or visual prototypes that represent the appearance and interaction of the project's user interface.
 <a href="./Mockup" style="color: #007bff; text-decoration: none;">Mockup</a>
@@ -73,18 +78,9 @@ Feel free to explore each folder for more details on their respective contents.
 | 8 | Medium | As a user, I want the ability to manually categorize reviews using custom tags. I wish to assign meaningful and relevant tags to each review, allowing for more accurate data organization based on specific analysis criteria. Additionally, I want to be able to edit tags as needed, ensuring flexibility and adaptability in the tagging process.| 2 | 3 |
 | 9 | Medium |  As a user, I want access to a detailed record of all report and review sharing activities within the platform. This record should include information such as date, time, involved users, and the shared content. I want to be able to view this log easily and intuitively, allowing me to efficiently track and monitor the distribution of information within the team.                                                                                                                                     | 2 | 3 |
 
-
-
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
-<!--| 6 | High | As a platform user, I wish to have the ability to generate customized reports in popular formats such as PDF and Excel, containing sentiment analyses and data trends. This will allow me to easily share analysis results with colleagues and stakeholders. This functionality will be essential to facilitate communication and collaboration, enabling users to share valuable insights clearly and accessibly. | 1 | 3 |
-| 7 | Medium | As a platform user, I want the capability to compare different periods and categories of sentiments in the generated reports. This will enable me to identify significant insights and better understand changes over time, facilitating informed decision-making. This functionality will be essential to analyze trends and patterns in the data, providing a more comprehensive view of sentiment category performance and evolution over time. | 1 | 3 |
-| 8 |High | As a platform user, I expect to have access to performance metrics of the machine learning models used in sentiment analysis. This will allow me to assess the accuracy and reliability of analysis results, providing valuable insights to better understand the performance of the employed algorithms. This transparency will increase my confidence in the results and help me make informed decisions based on the analyses conducted. | 1 | 4 |
-| 9 | Medium | As an administrator of the platform, I desire the ability to create and edit customized tags for categorizing reviews. This will enable me to personalize the categorization system according to the specific needs of the company or industry, ensuring more accurate and relevant sentiment analysis. This functionality will be crucial to adapt the classification system to business peculiarities, improving analysis quality and providing more useful insights to platform users. | 1 | 4 |
-| 10 | Medium | As a platform user, I wish to have the ability to manually categorize reviews to improve the accuracy of sentiment analysis models. This will allow me to provide valuable feedback on review classification and contribute to the continuous improvement of sentiment analysis algorithms. This functionality will be essential to refine models and provide more accurate and relevant results to platform users. | 1 | 4 |
-
--->
-
+<hr>
 
 ## Mockup
 
@@ -120,12 +116,82 @@ Feel free to explore each folder for more details on their respective contents.
  <summary>User Management</summary>
 <img src="./Mockup/Tela User Management.png">
  </details>
+ 
+<br>
 
+
+## LGPD
+<details>
+<br>
+ 
+ <summary>Topics that the LGPD covers in this academic project</summary>
+
+  ### Below is a pdf with information about the 4 topics
+ 
+[Click here to access the LGPD Topics for this project.](https://github.com/Fluffy-Fatec/Projeto-Integrador-Imagem/blob/develop/Documentation/LGPD/LGPD.pdf)
+
+<br>
+
+ **Tutorial for Secure Database Restoration**
+
+This tutorial was created to provide clear guidelines on the correct method to perform a database restore, ensuring that previously deleted users are not recovered.
+
+**Requirements:**
+- Veracrypt
+- Python 3.10
+- PyCharm or any other IDE of your choice
+
+**Step 1:**
+**Request the Encrypted Project Image:**
+Request the encrypted project image.
+
+**Mounting the Image with Veracrypt:**
+- Open Veracrypt.
+- In the main window of Veracrypt, click on "Mount". The dialog window for entering the password will be displayed.
+  
+<img src="./LGPD/Veracrypt.png">
+
+
+- The dialog window for entering the password will be displayed.
+- Enter the provided password and click "OK".
+
+<img src="./LGPD/Veracrypt1.png">
+
+- After that, the image will be successfully mounted as a virtual drive (e.g., M:).
+
+<img src="./LGPD/Veracrypt2.png">
+<img src="./LGPD/localdodisco.png">
+
+**Step 2:**
+**Access the Project:**
+- Open your Python IDE and navigate to the folder where the project is located on the virtual drive M:
+
+**Run the Main Script:**
+- Run the file main.py.
+
+**Database Restoration:**
+- After executing the script, the database restore will be performed, ensuring that all previously deleted records remain eliminated.
+
+<img src="./LGPD/restauração de banco de dados.png">
+
+**Important Notes:**
+- Ensure you have authorized access to the encrypted project image.
+- When mounting the image with Veracrypt, use the correct password and select the appropriate PRF algorithm.
+- The execution of the main.py script must be performed within the Python IDE in the correct project folder.
+- After executing the script, verify that the database restore was successfully completed and that the previously deleted records remain eliminated.
+
+This tutorial provides a step-by-step guide to ensure the secure restoration of the database, preventing previously deleted users from being recovered. Make sure to follow each step carefully to achieve the desired results.
+
+
+</details>
+
+<br>
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 
 ### Logical Model (James Martin's Notation)
+<br>
 <details>
  <summary>DER Sprint 1</summary>
 <img src = "./DER/DER.png">
@@ -144,7 +210,6 @@ Feel free to explore each folder for more details on their respective contents.
 <br>
 
 ## Burndown
-
  <details>
  <summary>Sprint 1</summary>
 <img src = "./Burndown/Burndown.png">
@@ -154,7 +219,6 @@ Feel free to explore each folder for more details on their respective contents.
  <summary>Sprint 2</summary>
 <img src = "./Burndown/Burndown1.png">
 </details>
-
 
  <details>
  <summary>Sprint 3</summary>
