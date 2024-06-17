@@ -225,6 +225,11 @@ This tutorial provides a step-by-step guide to ensure the secure restoration of 
 <img src = "./Burndown/Burndown2.png">
 </details>
 
+ <details>
+ <summary>Sprint 4</summary>
+<img src = "./Burndown/Burndown3.png">
+</details>
+
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Data Dictionary
