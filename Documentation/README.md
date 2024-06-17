@@ -227,7 +227,7 @@ This tutorial provides a step-by-step guide to ensure the secure restoration of 
 
  <details>
  <summary>Sprint 4</summary>
-<img src = "./Burndown/Burndown3.png">
+<img src = "./Burndown/Burndown 3.png">
 </details>
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
